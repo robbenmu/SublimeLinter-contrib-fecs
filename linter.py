@@ -17,7 +17,7 @@ class Fecs(Linter):
 
     """Provides an interface to fecs."""
 
-    syntax = ('javascript', 'html', 'javascriptnext', 'javascript (jsx)', 'javascript (babel)')
+    syntax = ('javascript', 'html')
     cmd = 'fecs --silent --reporter=baidu --format=checkstyle'
     version_args = '--version'
     version_re = r'(?P<version>\d+\.\d+\.\d+)'
