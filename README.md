@@ -1,7 +1,7 @@
 SublimeLinter-contrib-fecs
 ================================
 
-[![Build Status](https://travis-ci.org/SublimeLinter/SublimeLinter-contrib-fecs.svg?branch=master)](https://travis-ci.org/SublimeLinter/SublimeLinter-contrib-fecs)
+[![Build Status](https://travis-ci.org/robbenmu/SublimeLinter-contrib-fecs.svg?branch=master)](https://travis-ci.org/SublimeLinter/SublimeLinter-contrib-fecs)
 
 This linter plugin for [SublimeLinter][docs] provides an interface to [fecs](__linter_homepage__). It will be used with files that have the “__syntax__” syntax.
 
